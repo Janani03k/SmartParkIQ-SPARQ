@@ -1,1 +1,1 @@
-# SmartParkIQ - Smart Parking 
+# SmartParkIQ - Smart Parking System
