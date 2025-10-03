@@ -1,2 +1,2 @@
-# SmartParkIQ - Smart Parking System
+# SmartParkIQ : Smart Parking System
 GE - Product Development for Engineers
