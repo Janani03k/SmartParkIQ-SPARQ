@@ -1,6 +1,6 @@
 # SmartParkIQ : Smart Parking System
 
-**An AI-powered smart parking platform to reduce parking anxiety, overpricing, and vehicle damage**
+**An AI-powered smart parking platform to reduce parking anxiety, overpricing, and vehicle damage.**
 
 ## Overview
 
